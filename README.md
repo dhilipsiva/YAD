@@ -1,4 +1,4 @@
-# ProxySync
+# ProxiSync
 
 ## Overview
 
