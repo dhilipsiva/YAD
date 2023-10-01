@@ -54,7 +54,3 @@ ProxiSync's software architecture is designed to optimize performance, security,
 - **User Interface**: The software includes a straightforward user interface, optimized for the E-ink display. It enables users to initiate and manage secure data transfers with ease.
 
 - **Security Measures**: The software incorporates robust security measures, including data encryption, authentication, and access control, to protect sensitive information during transfer and storage.
-
----
-
-**Note**: This repository contains the specification document only. For the actual device hardware and software code, please refer to the [ProxiSync GitHub Repository](link-to-your-device-repo).
