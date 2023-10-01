@@ -2,16 +2,6 @@
 
 ProxiSync is a specification document for the design and functionality of a low-power, peer-to-peer communication device. This document outlines the key features, hardware components, and software architecture required to build the ProxiSync device. ProxiSync is designed for secure and efficient communication in close proximity scenarios.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Hardware Components](#hardware-components)
-- [Software Architecture](#software-architecture)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Low Power Consumption**: ProxiSync is designed to operate for weeks on a single battery charge.
