@@ -1,7 +1,7 @@
 # This device
 
 
-This device is a specification document for the design and functionality of a low-power, peer-to-peer communication device. This document outlines the key features, hardware components, and software architecture required to build the This device device. This device is designed for secure and efficient close-proximity scenarios.
+This is a specification document for the design and functionality of a low-power, peer-to-peer communication device. This document outlines the key features, hardware components, and software architecture required to build this device. This device is designed for secure and efficient close-proximity scenarios.
 
 In today's interconnected world, there's a growing need for secure and efficient communication that doesn't rely on internet connectivity or traditional cellular networks. This device fills this gap by providing a solution that enables users to exchange data seamlessly and securely in close proximity scenarios. Whether you're a member of an organization looking for a secure way to share sensitive information or an individual seeking a reliable method of data transfer between devices, this device offers a versatile and efficient solution.
 
